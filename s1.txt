@@ -1,3 +1,4 @@
-aaaa
-bbbb
-ccc
+function a(){
+}
+function b(conflict){
+}
