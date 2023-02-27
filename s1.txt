@@ -1,6 +1,6 @@
 function a(){
 }
-function b(merge){
+function b(merge,conflict){
 }
 function c(){
 }
